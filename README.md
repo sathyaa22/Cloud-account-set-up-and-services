@@ -1,9 +1,8 @@
 ## EX NO:1 Cloud-account-set-up-and-services
 
-```
 Name : Sathyaa R
 Reg no: 212223100052
-```
+
 
 ## Aim:
 To create an cloud account in AWS and to explore all of its services.
